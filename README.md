@@ -7,4 +7,4 @@ Assignment 5: the objective was, given a x,y grid with values at each point, fin
 
 Assignment 10: The objective was, given a x,y grid (a pixel grid) with some pixels colored and others not, attempt to cover every colored pixel with a 2x1 tile. The 2x1 tile could not cover a noncolored tile. If it was not possible, then the algorithm would return the string "impossible". If it was possible, the algorithm would return the start and end coordinates of every 2x1 tile needed to cover the colored pixels.
 
-
+Exam attempt: From exam, the idea being people at a party. People had one feature, the others that they knew. Implemented an algorithm to find the "celebrity", the person who knew nobody but who everyone knew.
